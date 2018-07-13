@@ -1,0 +1,5 @@
+usuario
+admin
+msfadmin
+user
+anonymous
